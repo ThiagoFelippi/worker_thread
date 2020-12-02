@@ -1,6 +1,5 @@
-const setTimeOut = require("./setTimeOut");
-const threads = require("./threads");
+const setTimeOut = require("./examples/setTimeOut/setTimeOut");
+const threads = require("./examples/threads");
 
 // setTimeOut();
-
 threads();
